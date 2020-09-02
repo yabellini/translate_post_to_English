@@ -2,22 +2,22 @@
 date: "2020-09-01"
 draft: false
 type: page
-linktitle: Compartir material educativo y mantener la autoría.
-summary: compartir tu material educativo para que otras personas puedan usarlo es una idea potente y generosa. En este post te contamos como hacerlo manteniendo tu autoría.
-title: Compartir material educativo y mantener la autoría.
+linktitle: Share educational material and maintain authorship.
+summary: sharing your educational material so that other people can use it is a powerful and generous idea. In this post we tell you how to do it while maintaining your authorship.
+title: Share educational material and maintain authorship.
 authors: 
     - yabellini
 type: post
 weight: 1
 tags: 
-  - compartir
+  - share
   - open education
-  - tips técnicos
+  - technical tips
 ---
 
-Como se detalla en [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generar material esducativo requieren un esfuerzo significativo tanto para su desarrollo inicial como para mantenerlo actualizado.
+As detailed in [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generating educational material, they require a significant effort both for its initial development and to keep it updated.
 
-A pesar que existe la _paradoja de la reusabilidad_ [[2]](https://opencontent.org/blog/archives/3854) - [[3]](https://opencontent.org/blog/archives/6585) que postula que un material didáctico será más reutilizables cuando sea lo más genérico posible pero será más efectivo cuando esté personalizado para una audiencia particular, en un contexto particular [[4]](https://third-bit.com/2015/04/22/the-paradox-of-learning-objects.html); compatir nuestro material de una manera que otras personas puedan _encontrarla, **utilizarla**, mejorarla y **citarla**_ es una actividad que vale la pena el esfuerzo. 
+Although there is the _reusability paradox_ that postulates that a teaching material will be more reusable when it is as generic as possible but will be more effective when it is personalized for a particular audience, in a particular context; sharing our material in a way that other people can _find it, **use it**, improve it, and **quote it**_ is an activity worth the effort.
 
 Con la llegada de la virtualidad obligada debido al COVID-19, muchas/os docentes se han visto en la necesidad de compatir su material en un formato digital, además de tener que adaptar alguna parte del mismo.
 
