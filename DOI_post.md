@@ -17,7 +17,7 @@ tags:
 
 As detailed in [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generating educational material, they require a significant effort both for its initial development and to keep it updated.
 
-Although there is the _reusability paradox_ that postulates that a teaching material will be more reusable when it is as generic as possible but will be more effective when it is personalized for a particular audience, in a particular context; sharing our material in a way that other people can _find it, **use it**, improve it, and **quote it**_ is an activity worth the effort.
+Although there is the _reusability paradox_ [[2]](https://opencontent.org/blog/archives/3854) - [[3]](https://opencontent.org/blog/archives/6585) that postulates that a teaching material will be more reusable when it is as generic as possible but will be more effective when it is personalized for a particular audience, in a particular context [[4]](https://third-bit.com/2015/04/22/the-paradox-of-learning-objects.html); sharing our material in a way that other people can _find it, **use it**, improve it, and **quote it**_ is an activity worth the effort.
 
 Con la llegada de la virtualidad obligada debido al COVID-19, muchas/os docentes se han visto en la necesidad de compatir su material en un formato digital, además de tener que adaptar alguna parte del mismo.
 
