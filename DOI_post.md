@@ -35,37 +35,35 @@ If our material has code in a programming language, then we must also select an 
 
 * **Step 3: add a [digital object identifier (DOI)](https://es.wikipedia.org/wiki/Identificador_de_objeto_digital) so that it is quotable.** We will describe this step in great detail by following these [GitHub instructions](https://guides.github.com/activities/citable-code/).
 
-    * Entrar a [Zenodo](https://zenodo.org/) y presionar el botón Login en la parte superior derecha de la página y seleccionar la opción de iniciar sesión con tu cuenta de GitHub. 
+    * Enter to [Zenodo](https://zenodo.org/) and press the Login button at the top right of the page and select the option to log in with your GitHub account.
    {{< figure src="/img/screen1.png" >}}
 
-    * Debemos _autorizar la aplicación_ para otorgarle a Zenodo los permisos que necesita para poder asignar un DOI a tu repositorio. 
+    * We must _authorize the application_ to grant Zenodo the permissions it needs to be able to assign a DOI to your repository.
     {{< figure src="/img/screen2.png" >}}
 
-    * Luego de confirmar que es nuestra cuenta (nos llegará un mail), estaremos logueados en Zenodo y en la esquina superior derecha aparece nuestro correo asociado a GitHub, si hacemos click en el triangulito se despliega un menú donde seleccionamos GitHub:  
+    * After confirming that it is our account (we will receive an email), we will be logged into Zenodo and in the upper right corner our email associated with GitHub appears, if we click on the triangle a menu is displayed where we select GitHub:  
     {{< figure src="/img/screen3.png" >}}
 
     
-    * Ahora, elije el repositorio que deseas archivar. Para habilitar esta funcionalidad hacemos clic en el botón Activar junto a al repositorio (en este caso GEE_course_code). El respositorio debe ser _público_
+    *Now, choose the repository you want to archive. To enable this functionality we click on the Activate button next to the repository (in this case GEE_course_code). The repository must be _public_
 
     {{< figure src="/img/screen4.png" >}}
 
-    * Debemos verificar que la configuración del repositorio para enviarle mensajes a Zenodo fue exitosa, para eso hacemos clic en la pestaña de configuración en tu repositorio y luego clic en _Webhooks_ en el menú de la izquierda. Deberías ver una pantalla similar a la siguiente imagen: 
+    * We must verify that the repository configuration to send messages to Zenodo was successful, for that we click on the configuration tab in your repository and then click on _Webhooks_ in the menu on the left. You should see a screen similar to the following image:
 
     {{< figure src="/img/screen5.png" >}}
 
-    * Crea una nueva versión: Zenodo archiva tu repositorio cada vez que generes una nueva versión. Para esto regresamos a la vista principal del repositorio y en el menú de la derecha clickeamos en _create new release_.
+    * Create a new version: Zenodo archives your repository every time you generate a new version. For this we return to the main view of the repository and in the menu on the right we click on _create new release_.
     {{< figure src="/img/screen6.png" >}}
    
-    * Debemos completar la versión de este _release_, el título y la descripción y luego presionar el botón _publish release_, como se muestra en la siguiente figura.
+    * We must complete the version of this _release_, the title and the description and then press the button _publish release_, as shown in the following figure.
     {{< figure src="/img/screen7.png" >}}
 
-    * Ahora vamos a obtener el DOI, para eso debemos volver a Zenodo y hacer click en _Upload_. Allí va a mostrarnos los diferentes materiales que tenemos publicados enZenodo, si hacemos click en el nombre, nos muestra todo el detalle, podemos editar la inforamción y si bajamos en la página a la derecha nos muestra el DOI y una cita sugerida.
-
+    * Now we are going to obtain the DOI, for that we must return to Zenodo and click on _Upload_. There it will show us the different materials that we have published in Zenodo, if we click on the name, it shows us all the details, we can edit the information and if we go down on the page to the right it shows us the DOI and a suggested cite.
     {{< figure src="/img/screen8.png" >}}
 
 
-Listo, ya tenemos el DOI y la cita que podemos agregar a nuestro repo y pedirle a las personas que usen nuestros materiales que la utilicen para mencionarnos.
-
+Ready, we already have the DOI and the "cite as" that we can add to our repo and ask people who use our materials to use it to mention us.
 
 
 
